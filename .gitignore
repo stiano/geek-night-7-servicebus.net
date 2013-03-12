@@ -1,7 +1,6 @@
 # Ignore file for Visual Studio 2008/2010/2012
 
 *.obj
-*.exe
 *.pdb
 *.user
 *.aps
@@ -32,4 +31,3 @@ _ReSharper*/
 [Bb]uild[Ll]og.*
 *.[Pp]ublish.xml
 build/
-AssemblyInfo.cs
