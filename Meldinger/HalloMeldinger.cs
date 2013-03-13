@@ -2,8 +2,6 @@
 {
     using NServiceBus;
 
-
-
     public class HalloMelding : IMessage
     {
         public string Hallo { get; set; } 
